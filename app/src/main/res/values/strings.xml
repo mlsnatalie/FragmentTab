@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentTab</string>
+    <string name="main_home">产品列表</string>
+    <string name="main_mine">个人中心</string>
+</resources>
